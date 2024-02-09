@@ -1,0 +1,25 @@
+# Other
+.vscode/
+__pycache__/
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user 
+*.csproj
+
+# Intermediate
+bin/
+bin-int/
+Build/
+
+# Make
+/Makefile
+
+# CMake
+CMakeFiles/
+*.cmake
+CMakeLists.txt
+CMakeCache.txt

@@ -1,0 +1,12 @@
+[submodule "Dependencies/discord-game-sdk"]
+	path = Dependencies/discord-game-sdk
+	url = https://github.com/stulu08/discord-game-sdk
+[submodule "Dependencies/GLFW"]
+	path = Dependencies/GLFW
+	url = https://github.com/stulu08/GLFW
+[submodule "Dependencies/imgui"]
+	path = Dependencies/imgui
+	url = https://github.com/stulu08/imgui
+[submodule "Dependencies/spdlog"]
+	path = Dependencies/spdlog
+	url = https://github.com/gabime/spdlog
